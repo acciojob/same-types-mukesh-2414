@@ -4,7 +4,7 @@ function isSameType(value1, value2) {
 isSameType("hey", "hello"); // true
 isSameType(NaN, NaN); // true
 isSameType("3", 3); // false
-	
+
 }
 
 // do not change the code below.
